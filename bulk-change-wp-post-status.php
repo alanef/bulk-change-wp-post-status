@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name:  Danger Activate this and it chnages all posts from trash to publish
+Plugin Name:  Danger Activate this and it changes all posts from trash to publish
 Plugin URI:   https://developer.wordpress.org/plugins/the-basics/
-Description:  Back up - Danger Activate this and it chnages all posts from trash to publish
+Description:  Back up - Danger Activate this and it changes all posts from trash to publish every page load
 Version:      1
 Author:       alan
 Author URI:   https://fullworks/
