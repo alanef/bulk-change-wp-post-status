@@ -1,1 +1,1 @@
-# bulk-change-wp-post-status
+Runs the SQL when activated
