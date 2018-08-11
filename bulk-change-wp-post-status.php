@@ -12,4 +12,4 @@ License URI:  https://fullworks/
 Absolutely no liability accepted ever
 */
 global $wpdb;
-$result = $wpdb->query( "UPDATE wp_posts SET post_status = 'publish' WHERE post_status = 'trash'" );
+$result = $wpdb->query( "UPDATE wp_posts SET post_status = 'publish' WHERE post_status = 'trash' AND post_type = 'post'" );
